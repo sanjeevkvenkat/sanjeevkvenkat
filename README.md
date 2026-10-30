@@ -2,7 +2,7 @@
 
 **AI Engineer — Agentic AI Systems & Data Governance** · Toronto, Canada
 
-I build AI systems that survive contact with production. At CPP Investments I ship conversational AI and multi-agent systems on AWS Bedrock — on top of data that's actually governed, so the answers are safe to act on.
+I build AI systems that survive contact with production. I ship conversational AI and multi-agent systems on AWS Bedrock — on top of data that's actually governed, so the answers are safe to act on.
 
 🇨🇦 Canadian citizen · **TN-visa eligible** · Authorized to work in the US
 
@@ -10,7 +10,7 @@ I build AI systems that survive contact with production. At CPP Investments I sh
 
 ### What I've shipped
 - **Agentic Governance Harness for Data Products** — ontology-driven agents that apply governance standards automatically during development: suggesting DQ rules, tracking implementation, managing sign-off, catching production deviations, and closing the loop so every release leaves data more trusted
-- **AI Data Product Readiness Assistant** — conversational workflow unifying governance scorecards, quality assessments, lineage, and approval evidence
+- **AI Data Product Readiness Assistant** — the conversational front door: ask "is this product ready?" and get live answers from scorecards, DQ results, lineage, and approvals
 - **Conversational AI for Risk & Investment Data** — plain-English querying of data products, risk metrics, incidents, and lineage
 - **Knowledge & Incident Intelligence** — semantic search over governance repos, incidents, and docs for impact analysis and triage
 
