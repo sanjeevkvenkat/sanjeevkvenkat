@@ -9,8 +9,8 @@ I architect agentic AI systems and take AI use cases from idea to production. My
 🌐 **Portfolio:** [sanjeevkvenkat.github.io](https://sanjeevkvenkat.github.io/)
 
 ### What I've shipped
-- **Agentic Governance Harness for Data Products** — ontology-driven agents that apply governance standards automatically during development: suggesting DQ rules, tracking implementation, managing sign-off, catching production deviations, and closing the loop so every release leaves data more trusted
-- **AI Data Product Readiness Assistant** — the conversational front door: ask "is this product ready?" and get live answers from scorecards, DQ results, lineage, and approvals
+- **Agentic Governance Harness for Data Products** — autonomous verification layer: policy-as-code over a domain ontology, supervisor/worker agents checking contracts, quality, lineage, and classification on every build, with CI/CD gates, evidence-based sign-off, and production drift detection
+- **AI Data Product Readiness Assistant** — copilot for the people in the process: plain-language answers grounded in live governance data, generated briefing packs, human-in-the-loop approvals
 - **Conversational AI for Risk & Investment Data** — plain-English querying of data products, risk metrics, incidents, and lineage
 - **Knowledge & Incident Intelligence** — semantic search over governance repos, incidents, and docs for impact analysis and triage
 
