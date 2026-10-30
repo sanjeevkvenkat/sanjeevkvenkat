@@ -1,8 +1,8 @@
 # Hi, I'm Sanjeev Kumar Venkataraman 👋
 
-**AI Engineer — Agentic AI Systems & Data Governance** · Toronto, Canada
+**AI Solutions Architect — Agentic AI Systems & Data Governance** · Toronto, Canada
 
-I build AI systems that survive contact with production. I ship conversational AI and multi-agent systems on AWS Bedrock — on top of data that's actually governed, so the answers are safe to act on.
+I architect agentic AI systems and take AI use cases from idea to production. My background runs across data science, data management, governance, information security, BI and dashboards, and full-stack web apps — so the systems I design hold up inside the enterprise.
 
 🇨🇦 Canadian citizen · **TN-visa eligible** · Authorized to work in the US
 
