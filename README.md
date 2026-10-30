@@ -15,7 +15,7 @@ I build AI systems that survive contact with production. I ship conversational A
 - **Knowledge & Incident Intelligence** — semantic search over governance repos, incidents, and docs for impact analysis and triage
 
 ### Stack
-AWS Bedrock · Claude · LangChain · LangGraph · MCP · RAG · PGVector · Pinecone · Weaviate · Python · FastAPI · React/TypeScript · Docker/Kubernetes · Terraform · Collibra · Ataccama · Great Expectations
+**AI:** Bedrock, Claude, LangChain, LangGraph, MCP, RAG · **Data engineering:** modeling, streaming, Spark, dbt, Collibra, Ataccama, Great Expectations · **Infra:** AWS, Terraform, Docker, Kubernetes, high-availability, real-time monitoring · **Apps:** React/TypeScript, FastAPI, Python · **BI:** Tableau, Power BI · **Databases:** PostgreSQL, Redshift, BigQuery, MongoDB, Neo4j
 
 ### Certifications
 AWS Solutions Architect Associate · Collibra Expert I · Tableau Server Certified Associate · Tableau Data Scientist · Tableau Server Architect
