@@ -4,7 +4,7 @@
 
 I build AI systems that survive contact with production. At CPP Investments I ship conversational AI and multi-agent systems on AWS Bedrock — on top of data that's actually governed, so the answers are safe to act on.
 
-🇨🇦 Canadian citizen · **TN-visa eligible** · Open to roles in the US & Canada
+🇨🇦 Canadian citizen · **TN-visa eligible** · Authorized to work in the US
 
 🌐 **Portfolio:** [sanjeevkvenkat.github.io](https://sanjeevkvenkat.github.io/)
 
